@@ -1,0 +1,1 @@
+D:\sinned\net_maui\Sistemas\ColorMarker\ColorMarker.csproj;x64
